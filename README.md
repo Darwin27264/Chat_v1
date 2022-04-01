@@ -1,6 +1,6 @@
 # ISLA_CHATBOT
 
-ISLA is a simple chatbot created in the purpose for me to learn about prorgamming and just as a somewhat personal side project that I am willing to dedicate time to. 
+ISLA is a simple chatbot created in the purpose for me to learn about prorgamming and just as a somewhat personal side project that I am dedicating time to. 
 
 This project started back when I was in Grade 11 (the summer of 2020).
 
