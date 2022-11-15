@@ -7,3 +7,4 @@ This project started back when I was in Grade 11 (the summer of 2020).
 A detailed devlog can be found via this link. It contains brainstorming ideas, improvements made upon old implementations, personal thoughts, along with progress and challenges during the development. 
 https://docs.google.com/document/d/1gk0Iq3beNDJo89OVb_FDPJ23mQi6ycKGKVkgeffuCus/edit?usp=sharing
 
+Note that this upload only contains the code and a non-working version of the program. 
